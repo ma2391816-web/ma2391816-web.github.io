@@ -1,0 +1,11 @@
+event-landing-page/
+│
+├── index.html
+├── README.md
+├── .gitignore
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
